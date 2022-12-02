@@ -1,0 +1,197 @@
+body{
+    background-image: url(images/971136.jpg);
+    height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: right bottom;
+    text-align: center;
+    padding: 20px;
+}
+header{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    display: block;
+    background-color: transparent;
+    margin: 5px;
+    
+}
+header h1{
+    text-shadow: 2px 2px 6px black;
+    border-bottom: 5px solid white;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+main{
+    width: 80%;
+    margin: auto;
+    color: white;
+    text-transform: uppercase;
+     text-shadow: 2px 2px 6px black;
+   
+    
+    font-family: sans-serif;    
+}
+.times{
+   
+    padding: 15px;
+    margin-top: 15px;
+    
+}
+.Cleveland{
+    display: block ;
+    border: solid 3px white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 30px;
+    background: rgba(109, 1, 15, 0.3);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+ .cl{
+    width: 500px;
+    border: 3px solid black;
+    right: 20px;
+ }
+
+
+ .Celtics{
+    display: block ;
+    border: solid 3px white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 30px;
+    background: rgba(00, 80, 00, 0.3);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+ }
+
+.ce{
+    width: 400px ;
+    right: 20px;
+    border: 3px solid black;
+ }
+
+ .Nets{
+    display: block ;
+    border: solid 3px white;
+    margin-left: 100px;
+    margin-right: 100px;
+    background: rgba(3, 3, 3, 0.5);
+    border-radius: 30px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+ }
+
+ .ne{
+    width: 400px ;
+    right: 20px;
+    border: 3px solid black;
+ }
+
+ .Filme{
+    border: solid 3px white;
+    border-radius: 30px;
+    background: rgba(168, 71, 6, 0.4);
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+ }
+ 
+ .un{
+    width: 400px ;
+    right: 20px;
+    border: 3px solid black;
+    
+ }
+
+ .dr{
+    
+    background-color:rgba(185, 172, 172, 0.281);
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 8px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+   
+    text-align: center;
+ }
+ .Links ul{
+    text-align: center;
+ }
+
+ .Links li{
+    display: inline-block;
+    list-style: none;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-left: 30px;
+   
+   
+ }
+ .Links a{
+    background: rgba(177, 0, 0, 0.726);
+    display: block;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+ }
+
+ .Links a:hover{
+    background: rgba(12, 12, 12, 1);
+ }
+
+ footer{
+    display: block;
+    text-align: center;
+    color: white;
+    padding: 0.1%;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: rgba(0, 0, 0, 0.795);
+    border: solid 3px white;
+    border-radius: 50px;
+    
+ }
+ footer h4{
+    border-bottom: 3px solid white;
+    padding-bottom: 50px;
+    
+ }
+
+ .eu li{
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+    border: solid 3px  rgba(230, 5, 5, 0.548);;
+    background-color: rgba(110, 10, 10, 0.548);
+   
+}
+
+.eu li:hover{
+    background-color: rgba(230, 5, 5, 0.548);
+}
+
+ .eu a{
+    text-align: center;
+    color: white;
+    
+    
+ }
